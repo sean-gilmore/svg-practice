@@ -1,0 +1,4 @@
+<svg>
+  <polyline points="0,40 40,40 40,80 80,80 80,120 120,120 120,160" fill="transparent" stroke="#BBC42A" stroke-width="8" />
+</svg>
+<!-- The `points` attribute contains a series of x,y coordinates, delimited by spaces -->

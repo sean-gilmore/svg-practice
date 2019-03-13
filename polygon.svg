@@ -1,0 +1,5 @@
+<svg>
+  <polygon points="50,5 100,5 125,30 125,80 100,105 50,105 25,80 25,30 30,35 31,45 55,55" fill="#ED6E46" />
+</svg>
+
+<!-- Can include as many points as you require. Draws a closed shape at all times -->
