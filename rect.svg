@@ -1,0 +1,7 @@
+<svg>
+  <rect x="0" y="0" rx="0" ry="0" width="250" height="150" fill="#BBC42A" />
+</svg>
+<!-- 
+x, y are the position of the element from the top left
+rx, ry are the radius of the corner. They determine how "dragged in" the curved section of the border goes
+-->
